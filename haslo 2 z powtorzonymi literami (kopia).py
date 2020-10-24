@@ -1,3 +1,8 @@
+#dupa cyce wadowice tescior 
+#jest walony na pełnej 
+
+
+
 import os
 import time
 import datetime
