@@ -1,4 +1,4 @@
-#nieedit 1
+#edit  z mastera
 #ediet 2
 
 
